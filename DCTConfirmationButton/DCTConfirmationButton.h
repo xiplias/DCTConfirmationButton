@@ -13,7 +13,7 @@ FOUNDATION_EXPORT double DCTConfirmationButtonVersionNumber;
 FOUNDATION_EXPORT const unsigned char DCTConfirmationButtonVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <DCTConfirmationButton/PublicHeader.h>
-#import <DCTConfirmationButton/DCTConfirmationButtonLoadingView.h>
+#import "DCTConfirmationButton/DCTConfirmationButtonLoadingView.h"
 
 typedef NS_ENUM(NSInteger, DCTConfirmationButtonState) {
 	DCTConfirmationButtonStateNormal,
